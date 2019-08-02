@@ -6,6 +6,7 @@
     left:0;
     height:12%;
     background-color:white;
+    border-bottom:solid #ddd 1px;
 }
 
 #name{
@@ -40,6 +41,7 @@ h1{
 }
 body{
     background-color:lightgrey;
+    background-image: url('../images/memphis-mini.png');
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size:18px;
     color:grey;
@@ -50,7 +52,7 @@ body{
     background-color:white;
     width:960px;
     margin:8% 18%;
-    border:50px;
+    border:solid black 2px;
     border-color:#cccccc;
     padding:10px;
 }
