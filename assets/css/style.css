@@ -64,7 +64,6 @@ body{
     width:100%;
     height:10%;
     font-size:10px;
-    vertical-align:text-bottom;
     text-align:center;
 }
 #profile{
@@ -112,4 +111,8 @@ body{
     color:white;
     text-align:center;
     vertical-align:middle;
+}
+foottext{
+    position:fixed;
+    bottom:5px;
 }
