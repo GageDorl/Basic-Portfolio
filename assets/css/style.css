@@ -117,3 +117,8 @@ foottext{
     position:fixed;
     bottom:5px;
 }
+.clearfix::after{
+    content:"";
+    display:block;
+    clear:both;
+}
