@@ -122,3 +122,6 @@ foottext{
     display:block;
     clear:both;
 }
+#current, #other{
+    transition:.7s;
+}
